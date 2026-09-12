@@ -114,12 +114,6 @@ WebSockets · Redis Streams · Redis Pub/Sub · Async Python
 
 ---
 
-### 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in) · [Email](mailto:en@outlook.com)
-
----
-
 <div align="center">
 
 **Design systems. Build reliably. Keep learning.**
