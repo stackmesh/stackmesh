@@ -2,33 +2,53 @@
 
 ### Senior Software Engineer · Python · Backend · Distributed Systems · Cloud
 
-I build **scalable backend systems, APIs, and cloud-native applications** with a focus on reliability, performance, and clean architecture.
+> **Building scalable systems, reliable APIs, and cloud-native applications.**
+
+With **9+ years of software engineering experience**, I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, and system design.
+
+I enjoy turning complex problems into **simple, reliable, maintainable software**.
+
+---
+
+## 🏗️ What I Build
 
 ```text
-Backend Engineering     →  Python · FastAPI · Django
-API & Architecture      →  REST · GraphQL · Microservices
-Data & Messaging        →  PostgreSQL · Redis · Kafka · RabbitMQ
-Cloud & Infrastructure  →  AWS · Docker · Kubernetes · Terraform
-Frontend                →  React · TypeScript · Angular
-AI / ML                 →  LLMs · RAG · OpenAI · PyTorch
+┌─────────────────────────────────────────────────────┐
+│                  Product & APIs                     │
+├─────────────────────────────────────────────────────┤
+│  FastAPI · Django · REST · GraphQL · Microservices │
+├─────────────────────────────────────────────────────┤
+│  PostgreSQL · Redis · MongoDB · DynamoDB            │
+├─────────────────────────────────────────────────────┤
+│  Kafka · RabbitMQ · Async · Background Processing   │
+├─────────────────────────────────────────────────────┤
+│  AWS · Docker · Kubernetes · Terraform             │
+├─────────────────────────────────────────────────────┤
+│  Monitoring · Testing · Observability · Security   │
+└─────────────────────────────────────────────────────┘
 ```
 
+### 🚀 Backend & APIs
+
+Designing scalable **Python services, REST APIs, microservices, and asynchronous systems**.
+
+### ☁️ Cloud & Distributed Systems
+
+Building **cloud-native applications** with AWS, Docker, Kubernetes, Kafka, RabbitMQ, and event-driven architectures.
+
+### 🗄️ Data & Performance
+
+Working with **relational and NoSQL databases**, caching, data modeling, query optimization, and high-volume workloads.
+
+### ⚛️ Full-Stack
+
+Creating complete applications with **React, TypeScript, Python APIs, and modern frontend architecture**.
+
+### 🤖 AI & Machine Learning
+
+Exploring **LLM integrations, RAG, OpenAI APIs, model serving, and AI-powered applications**.
+
 ---
-
-## ⚡ What I Build
-
-* 🚀 High-performance **Python APIs & backend services**
-* 🏗️ Scalable **microservices & distributed systems**
-* ⚡ Event-driven applications with **Kafka & RabbitMQ**
-* 🔄 Async processing & background job systems
-* 🗄️ Data-intensive applications with **PostgreSQL, Redis & NoSQL**
-* ☁️ Cloud-native applications on **AWS & Kubernetes**
-* 🔐 Secure APIs with authentication & authorization
-* 📊 Production systems with **observability, monitoring & tracing**
-* 🤖 AI-powered applications using **LLMs & RAG**
-
----
-
 ## 🛠️ Technology
 
 ### 🐍 Backend
@@ -101,62 +121,22 @@ I enjoy working on systems where **API design, data, infrastructure, and distrib
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Areas I'm Building
 
-### 💳 FinTech & Payment Systems
+**💳 FinTech**
+Payment systems · Transactions · Financial APIs · Event-driven workflows
 
-Building systems around:
+**🛒 E-Commerce**
+Products · Orders · Payments · Inventory · Async processing
 
-* Payment processing
-* Transaction ledgers
-* Financial workflows
-* Idempotency & data consistency
-* Authentication & authorization
-* Event-driven processing
+**🏠 Real Estate**
+Property APIs · Search · Data processing · AI-powered applications
 
-### 🛒 E-Commerce Platforms
+**☁️ Cloud-Native**
+AWS · Kubernetes · Docker · Microservices · Observability
 
-Exploring:
-
-* Product catalogs
-* Orders & payments
-* Inventory management
-* Shopping carts
-* Background processing
-* REST API architecture
-
-### 🏠 Real Estate Applications
-
-Working with:
-
-* Property APIs
-* Property search
-* Data processing
-* Search & recommendation
-* AI/RAG integrations
-* Full-stack workflows
-
-### ☁️ Cloud-Native Systems
-
-Building:
-
-* FastAPI services
-* Worker processes
-* Kubernetes deployments
-* Dockerized applications
-* Message-driven architectures
-* Monitoring & observability
-
-### 💬 Real-Time Applications
-
-Exploring:
-
-* WebSockets
-* Redis Streams
-* Redis Pub/Sub
-* Async Python
-* Real-time messaging
-* Scalable communication services
+**💬 Real-Time Systems**
+WebSockets · Redis Streams · Redis Pub/Sub · Async Python
 
 ---
 
