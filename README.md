@@ -1,55 +1,16 @@
-# 👋 Hi, I'm Stackmesh
+# 👨‍💻 Senior Software Engineer
 
-### Senior Software Engineer · Python · Backend · Distributed Systems · Cloud
+### Python · Backend · Distributed Systems · Cloud
 
-> **Building scalable systems, reliable APIs, and cloud-native applications.**
+> Building scalable APIs, distributed systems, and cloud-native applications with Python.
 
-With **9+ years of software engineering experience**, I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, and system design.
+9+ years building **backend services, APIs, full-stack applications, and production systems**.
 
-I enjoy turning complex problems into **simple, reliable, maintainable software**.
-
----
-
-## 🏗️ What I Build
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  Product & APIs                     │
-├─────────────────────────────────────────────────────┤
-│  FastAPI · Django · REST · GraphQL · Microservices │
-├─────────────────────────────────────────────────────┤
-│  PostgreSQL · Redis · MongoDB · DynamoDB            │
-├─────────────────────────────────────────────────────┤
-│  Kafka · RabbitMQ · Async · Background Processing   │
-├─────────────────────────────────────────────────────┤
-│  AWS · Docker · Kubernetes · Terraform             │
-├─────────────────────────────────────────────────────┤
-│  Monitoring · Testing · Observability · Security   │
-└─────────────────────────────────────────────────────┘
-```
-
-### 🚀 Backend & APIs
-
-Designing scalable **Python services, REST APIs, microservices, and asynchronous systems**.
-
-### ☁️ Cloud & Distributed Systems
-
-Building **cloud-native applications** with AWS, Docker, Kubernetes, Kafka, RabbitMQ, and event-driven architectures.
-
-### 🗄️ Data & Performance
-
-Working with **relational and NoSQL databases**, caching, data modeling, query optimization, and high-volume workloads.
-
-### ⚛️ Full-Stack
-
-Creating complete applications with **React, TypeScript, Python APIs, and modern frontend architecture**.
-
-### 🤖 AI & Machine Learning
-
-Exploring **LLM integrations, RAG, OpenAI APIs, model serving, and AI-powered applications**.
+I enjoy working on problems involving **system design, data, asynchronous processing, reliability, and scalability**.
 
 ---
-## 🛠️ Technology
+
+### ⚙️ Core Stack
 
 ### 🐍 Backend
 
@@ -91,7 +52,9 @@ Exploring **LLM integrations, RAG, OpenAI APIs, model serving, and AI-powered ap
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
+
 ---
+
 
 ## 🏗️ Engineering Focus
 
@@ -121,56 +84,44 @@ I enjoy working on systems where **API design, data, infrastructure, and distrib
 
 ---
 
-## 🔥 Areas I'm Building
+### 🚀 What I Build
 
-**💳 FinTech**
-Payment systems · Transactions · Financial APIs · Event-driven workflows
+### 💳 FinTech
 
-**🛒 E-Commerce**
-Products · Orders · Payments · Inventory · Async processing
+Payment systems · Transaction processing · Financial APIs · Event-driven workflows
 
-**🏠 Real Estate**
+### 🛒 E-Commerce
+
+Products · Orders · Payments · Inventory · Caching · Async processing
+
+### 🏠 Real Estate
+
 Property APIs · Search · Data processing · AI-powered applications
 
-**☁️ Cloud-Native**
-AWS · Kubernetes · Docker · Microservices · Observability
+### ☁️ Cloud-Native
 
-**💬 Real-Time Systems**
+AWS · Kubernetes · Docker · Microservices · CI/CD · Observability
+
+### 💬 Real-Time Systems
+
 WebSockets · Redis Streams · Redis Pub/Sub · Async Python
 
 ---
 
-## 🧠 Engineering Principles
+### 🔬 Current Interests
 
-> **Simple → Reliable → Observable → Scalable**
-
-I value:
-
-* Clean and maintainable architecture
-* Well-designed APIs
-* Strong data modeling
-* Automated testing
-* Asynchronous processing where appropriate
-* Fault tolerance
-* Observability
-* Security by design
-* Continuous refactoring
+`Distributed Systems` · `Event-Driven Architecture` · `Cloud Native` · `Python Performance` · `LLM Applications` · `System Design`
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kevin-nguyen)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kevin.nnguyen@outlook.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in) · [Email](mailto:en@outlook.com)
 
 ---
 
 <div align="center">
 
-### 💻 Build systems. Solve problems. Keep learning.
+**Design systems. Build reliably. Keep learning.**
 
 </div>
